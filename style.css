@@ -1,0 +1,23 @@
+body{
+    margin: 50px;
+    padding: 50px;
+}
+
+img{
+    position:relative;
+    box-sizing: border-box;
+    border: 10px solid #000000;
+    padding: 5px;
+}
+h1{
+    position: absolute;
+    color: #fff;
+    background-color: #000000;
+    opacity: 0.6;
+    width: 670px;
+    height: 50px;
+    font-size: 2.5rem;
+    text-align: center;
+    z-index: 1;
+    top: 75%;
+}
